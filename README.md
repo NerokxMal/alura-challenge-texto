@@ -14,7 +14,7 @@ El _Encriptador de Texto_ es una aplicación que encripta textos, así podras in
 
 #### Requisitos
 
-Las **llaves** de encriptación que utilizaremss son las siguientes:
+Las **llaves** de encriptación que utilizaremos son las siguientes:
 
 ```
 La letra "e" es convertida en "enter"
@@ -67,7 +67,6 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 ## Autores ✒️
 
 * **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
-
 * **Malcom Garcia** - *Desarrollador* - [NerokxMal](https://www.linkedin.com/in/malcom-nk-garcia/)
 	
 		
