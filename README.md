@@ -46,19 +46,16 @@ No son necesarios tener descargados programas especiales para poder probar el En
 
 ### Instalación 🔧
 
-Para probarlo se puede de dos maneras ya sea descargando una copia en su computadora o directamente desde GitHub Pages.
+Para probarlo se puede de dos maneras ya sea descargando una copia en su computadora o directamente desde Vercel.
 
 **Para descargarlo:**
 
-[Clic para Descargar](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/releases/tag/v0.1.1)
+[Clic para Descargar](https://github.com/NerokxMal/alura-challenge-texto/archive/refs/heads/main.zip)
 
 **Para probarlo directamente:**
 
-[Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
+[Encriptador de Texto](https://alura-challenge-texto.vercel.app/)
 
-**Demo:**
-
-![Demo]([https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0](https://alura-challenge-texto.vercel.app/)
 
 ## Construido con 🛠️
 
@@ -70,8 +67,7 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 ## Autores ✒️
 
 * **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
-* **Génesys Rondón** - *Desarrolladora e Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Victor Rodríguez** - *Desarrollador* - [NerokxMal](https://www.linkedin.com/in/malcom-nk-garcia/)
+* **Malcom Garcia** - *Desarrollador* - [NerokxMal](https://www.linkedin.com/in/malcom-nk-garcia/)
 	
 		
 		
