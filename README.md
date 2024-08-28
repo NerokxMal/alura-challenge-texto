@@ -71,7 +71,7 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 
 * **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
 * **Génesys Rondón** - *Desarrolladora e Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Victor Rodríguez** - *Desarrollador* - [NerokxMal](https://www.linkedin.com/in/malcom-nk-garcia/)
+* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
 	
 		
 		
